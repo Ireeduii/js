@@ -1,0 +1,16 @@
+let baby = "baby";
+let sharkdoo = "shark, doo, doo, doo, doo, doo, doo";
+let mommy = "mommy";
+let babyshark = "baby shark!";
+let mommyshark = "mommyshark";
+let daddy = "daddy";
+let daddyshark = "daddyshark";
+console.log(baby + sharkdoo);
+console.log(baby + sharkdoo);
+console.log(babyshark);
+console.log(mommy + sharkdoo);
+console.log(mommy + sharkdoo);
+console.log(mommyshark);
+console.log(daddy + sharkdoo);
+console.log(daddy + sharkdoo);
+console.log(daddyshark);
